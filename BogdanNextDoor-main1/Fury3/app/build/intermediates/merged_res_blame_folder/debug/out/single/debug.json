@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\layout_fridge_activity.xml.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\layout\\fridge_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_replace.xml.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\layout\\fragment_replace.xml"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vertical_progress_bar.xml.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable\\vertical_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_carrot.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable\\carrot.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sleeproomdark.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable\\sleeproomdark.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_room.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable\\room.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\layout_shell.xml.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\layout\\shell.xml"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bathlogo.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable\\bathlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_roomlogo.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable\\roomlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tea.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable\\tea.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_playlogo.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable\\playlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sleeproom.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable\\sleeproom.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bath.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable\\bath.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kit.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable\\kit.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\layout_sleeproom_activity.xml.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\layout\\sleeproom_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_invis.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable\\btn_invis.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fridge.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable\\fridge.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_furysleep.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable\\furysleep.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\font_game_tittle.ttf.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\font\\game_tittle.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sleeplogo.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable\\sleeplogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\layout_preloading.xml.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\layout\\preloading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\layout_fridge_fragment_buttons.xml.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\layout\\fridge_fragment_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_furystandart.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable\\furystandart.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bed.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable\\bed.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pizza.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable\\pizza.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\layout_kitchen_activity.xml.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\layout\\kitchen_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_beddark.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable\\beddark.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kitlogo.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable\\kitlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\layout_bath_activity.xml.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\layout\\bath_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\layout_fridge_fragment.xml.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\layout\\fridge_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_exitlogo.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable\\exitlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\drawable_soup.png.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\drawable\\soup.png"
+    },
+    {
+        "merged": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\build\\intermediates\\res\\merged\\debug\\layout_game_dialog.xml.flat",
+        "source": "C:\\Users\\Богдан\\Desktop\\BogdanNextDoor-main1\\Fury3\\app\\src\\main\\res\\layout\\game_dialog.xml"
+    }
+]
